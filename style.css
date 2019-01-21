@@ -27,5 +27,19 @@
     width: 100%;
     color: #fff;
     letter-spacing: 2.1px;
-    font-size: 150px;
+    font-size: 70px;
+}
+
+.list-group {
+    padding-top: 30px;
+}
+
+.list-group a {
+    margin: 5px 0;
+}
+
+.cuprins {
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 30px;
 }
